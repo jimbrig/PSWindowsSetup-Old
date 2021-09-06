@@ -24,10 +24,10 @@ GUID = '83f44be9-6617-4854-a6ef-497ddcb89ba0'
 Author = 'Jimmy Briggs'
 
 # Company or vendor of this module
-CompanyName = 'Unknown'
+CompanyName = 'Jimmy Briggs'
 
 # Copyright statement for this module
-Copyright = '(c) Jimmy Briggs. All rights reserved.'
+Copyright = '(c) 2021 Jimmy Briggs. All rights reserved.'
 
 # Description of the functionality provided by this module
 Description = 'PowerShell Module Assisting with Provisioning and Automating setting up a Windows Installation. '
